@@ -1,2 +1,3 @@
 # ghutchis.github.io
-Personal blog
+
+Group website with Jekyll / minimal mistakes
