@@ -1,10 +1,8 @@
 ---
-id: 439
 title: 'Adam Talks at Regional Simulator&#8217;s Meeting'
 date: 2011-05-24T20:30:11+00:00
 author: Paula Hoffmann
-layout: post
-guid: http://hutchison.chem.pitt.edu/?p=439
+layout: single
 permalink: /2011/05/adam-talks-at-regional-simulators-meeting/
 categories:
   - Presentations

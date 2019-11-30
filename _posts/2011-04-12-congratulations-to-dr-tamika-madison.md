@@ -1,10 +1,8 @@
 ---
-id: 261
 title: Dr. Tamika Madison Defends
 date: 2011-04-12T17:31:32+00:00
 author: Geoff Hutchison
-layout: post
-guid: http://hutchison.chem.pitt.edu/wordpress/?p=261
+layout: single
 permalink: /2011/04/congratulations-to-dr-tamika-madison/
 categories:
   - News

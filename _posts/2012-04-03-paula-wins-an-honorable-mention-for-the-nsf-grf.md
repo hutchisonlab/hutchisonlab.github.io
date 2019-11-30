@@ -1,10 +1,8 @@
 ---
-id: 784
 title: Paula wins an Honorable Mention for the NSF GRF
 date: 2012-04-03T19:24:48+00:00
 author: Paula Hoffmann
-layout: post
-guid: http://hutchison.chem.pitt.edu/?p=784
+layout: single
 permalink: /2012/04/paula-wins-an-honorable-mention-for-the-nsf-grf/
 categories:
   - Awards

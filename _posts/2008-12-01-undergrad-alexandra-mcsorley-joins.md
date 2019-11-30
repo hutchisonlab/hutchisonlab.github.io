@@ -1,10 +1,8 @@
 ---
-id: 93
 title: Undergrad Alexandra McSorley Joins
 date: 2008-12-01T14:49:42+00:00
 author: Geoff Hutchison
-layout: post
-guid: https://geoffh.wordpress.com/?p=93
+layout: single
 permalink: /2008/12/undergrad-alexandra-mcsorley-joins/
 jabber_published:
   - "1309888221"

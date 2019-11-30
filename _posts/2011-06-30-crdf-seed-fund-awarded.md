@@ -1,10 +1,8 @@
 ---
-id: 428
 title: CRDF Seed Fund Awarded
 date: 2011-06-30T15:09:11+00:00
 author: Paula Hoffmann
-layout: post
-guid: http://hutchison.chem.pitt.edu/?p=428
+layout: single
 permalink: /2011/06/crdf-seed-fund-awarded/
 categories:
   - Grants

@@ -1,10 +1,8 @@
 ---
-id: 111
 title: Undergrad Evan Richards Joins
 date: 2010-04-10T12:06:29+00:00
 author: Geoff Hutchison
-layout: post
-guid: https://geoffh.wordpress.com/?p=111
+layout: single
 permalink: /2010/04/undergrad-evan-richards-joins/
 jabber_published:
   - "1309968422"

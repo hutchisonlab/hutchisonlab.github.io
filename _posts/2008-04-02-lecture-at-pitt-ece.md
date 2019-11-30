@@ -1,10 +1,8 @@
 ---
-id: 245
 title: Lecture at Pitt ECE
 date: 2008-04-02T17:10:09+00:00
 author: Geoff Hutchison
-layout: post
-guid: http://hutchison.chem.pitt.edu/wordpress/?p=245
+layout: single
 permalink: /2008/04/lecture-at-pitt-ece/
 categories:
   - Seminar

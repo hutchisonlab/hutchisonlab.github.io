@@ -1,10 +1,8 @@
 ---
-id: 317
 title: Bryan Siegfried Joins
 date: 2010-08-05T15:02:52+00:00
 author: Paula Hoffmann
-layout: post
-guid: http://hutchison.chem.pitt.edu/wordpress/?p=317
+layout: single
 permalink: /2010/08/bryan-siegfried-joins/
 categories:
   - News

@@ -1,10 +1,8 @@
 ---
-id: 259
 title: Lectures at 2009 Telluride School in Theoretical Chemistry
 date: 2009-07-11T17:23:50+00:00
 author: Geoff Hutchison
-layout: post
-guid: http://hutchison.chem.pitt.edu/wordpress/?p=259
+layout: single
 permalink: /2009/07/lectures-at-2009-telluride-school-in-theoretical-chemistry/
 categories:
   - Seminar

@@ -1,10 +1,8 @@
 ---
-id: 1088
 title: Paula wins a 2013 Safford Award
 date: 2014-01-09T13:34:52+00:00
 author: Ilana Kanal
-layout: post
-guid: http://hutchison.chem.pitt.edu/?p=1088
+layout: single
 permalink: /2014/01/paula-wins-a-2013-safford-award/
 categories:
   - Awards

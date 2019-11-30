@@ -1,10 +1,8 @@
 ---
-id: 1092
 title: Chris wins a 2013 Safford Award
 date: 2014-01-09T13:38:04+00:00
 author: Ilana Kanal
-layout: post
-guid: http://hutchison.chem.pitt.edu/?p=1092
+layout: single
 permalink: /2014/01/chris-wins-a-2013-safford-award/
 categories:
   - Awards

@@ -1,10 +1,8 @@
 ---
-id: 496
 title: ACS Meeting
 date: 2010-03-30T14:49:10+00:00
 author: Paula Hoffmann
-layout: post
-guid: http://hutchison.chem.pitt.edu/?p=496
+layout: single
 permalink: /2010/03/acs-meeting/
 categories:
   - Seminar

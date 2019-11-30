@@ -1,10 +1,8 @@
 ---
-id: 95
 title: Xinfeng Quan Joins Group
 date: 2009-01-15T14:50:30+00:00
 author: Geoff Hutchison
-layout: post
-guid: https://geoffh.wordpress.com/?p=95
+layout: single
 permalink: /2009/01/xinfeng-quan-joins-group/
 jabber_published:
   - "1309888254"

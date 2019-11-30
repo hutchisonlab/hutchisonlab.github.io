@@ -1,10 +1,8 @@
 ---
-id: 405
 title: Steve Owens wins 2011 Safford Award
 date: 2011-09-27T17:48:04+00:00
 author: Geoff Hutchison
-layout: post
-guid: http://hutchison.chem.pitt.edu/?p=405
+layout: single
 permalink: /2011/09/steve-owens-wins-2011-stafford-award/
 categories:
   - Awards

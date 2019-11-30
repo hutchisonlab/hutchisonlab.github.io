@@ -1,10 +1,8 @@
 ---
-id: 113
 title: Alexandra McSorley Wins Undergrad Award
 date: 2010-04-14T12:07:46+00:00
 author: Geoff Hutchison
-layout: post
-guid: https://geoffh.wordpress.com/?p=113
+layout: single
 permalink: /2010/04/alexandra-mcsorley-wins-undergrad-award/
 jabber_published:
   - "1309968500"

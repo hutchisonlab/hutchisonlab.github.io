@@ -1,10 +1,8 @@
 ---
-id: 971
 title: 'MRS Materials 360: News Feature'
 date: 2013-05-20T12:30:05+00:00
 author: Paula Hoffmann
-layout: post
-guid: http://hutchison.chem.pitt.edu/?p=971
+layout: single
 permalink: /2013/05/mrs-materials-360-news-feature/
 categories:
   - News

@@ -1,10 +1,8 @@
 ---
-id: 249
 title: Lecture at ACS National Meeting, New Orleans
 date: 2008-04-08T21:16:50+00:00
 author: Geoff Hutchison
-layout: post
-guid: http://hutchison.chem.pitt.edu/wordpress/?p=249
+layout: single
 permalink: /2008/04/lecture-at-acs-national-meeting-new-orleans/
 categories:
   - Seminar

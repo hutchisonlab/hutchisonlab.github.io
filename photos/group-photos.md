@@ -1,10 +1,8 @@
 ---
-id: 891
 title: Group Photos
 date: 2013-02-18T15:36:50+00:00
 author: Paula Hoffmann
 layout: page
-guid: http://hutchison.chem.pitt.edu/?page_id=891
 ---
 <div id='gallery-2' class='gallery galleryid-891 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>

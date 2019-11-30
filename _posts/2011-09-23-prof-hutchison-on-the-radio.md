@@ -1,10 +1,8 @@
 ---
-id: 401
 title: Prof. Hutchison on the Radio
 date: 2011-09-23T14:24:30+00:00
 author: Geoff Hutchison
-layout: post
-guid: http://hutchison.chem.pitt.edu/?p=401
+layout: single
 permalink: /2011/09/prof-hutchison-on-the-radio/
 categories:
   - News

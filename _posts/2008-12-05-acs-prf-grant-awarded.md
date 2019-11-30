@@ -1,10 +1,8 @@
 ---
-id: 432
 title: ACS PRF Grant Awarded
 date: 2008-12-05T15:12:59+00:00
 author: Paula Hoffmann
-layout: post
-guid: http://hutchison.chem.pitt.edu/?p=432
+layout: single
 permalink: /2008/12/acs-prf-grant-awarded/
 categories:
   - Grants

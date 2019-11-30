@@ -1,10 +1,8 @@
 ---
-id: 486
 title: Seminar at the University of Buffalo
 date: 2010-10-23T14:20:31+00:00
 author: Paula Hoffmann
-layout: post
-guid: http://hutchison.chem.pitt.edu/?p=486
+layout: single
 permalink: /2010/10/seminar-at-the-university-of-buffalo/
 categories:
   - Seminar

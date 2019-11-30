@@ -1,10 +1,8 @@
 ---
-id: 257
 title: Lecture at CalU
 date: 2008-10-14T17:22:02+00:00
 author: Geoff Hutchison
-layout: post
-guid: http://hutchison.chem.pitt.edu/wordpress/?p=257
+layout: single
 permalink: /2008/10/lecture-at-calu/
 categories:
   - Seminar

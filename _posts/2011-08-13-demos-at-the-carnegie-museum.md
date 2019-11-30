@@ -1,10 +1,8 @@
 ---
-id: 411
 title: Demos at the Carnegie Museum
 date: 2011-08-13T16:34:31+00:00
 author: Geoff Hutchison
-layout: post
-guid: http://hutchison.chem.pitt.edu/?p=411
+layout: single
 permalink: /2011/08/demos-at-the-carnegie-museum/
 categories:
   - News

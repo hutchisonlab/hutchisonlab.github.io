@@ -1,10 +1,8 @@
 ---
-id: 80
 title: Grad Students Aaron Crandall and Xialing Chen Join Group
 date: 2008-01-29T14:40:10+00:00
 author: Geoff Hutchison
-layout: post
-guid: https://geoffh.wordpress.com/?p=80
+layout: single
 permalink: /2008/01/grad-students-aaron-crandall-and-xialing-chen-join-group/
 jabber_published:
   - "1309887687"

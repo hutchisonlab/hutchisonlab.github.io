@@ -1,10 +1,8 @@
 ---
-id: 890
 title: Paper Figures
 date: 2013-02-18T15:36:26+00:00
 author: Paula Hoffmann
 layout: page
-guid: http://hutchison.chem.pitt.edu/?page_id=890
 ---
 <div id='gallery-1' class='gallery galleryid-890 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>

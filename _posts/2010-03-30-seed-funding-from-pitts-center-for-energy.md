@@ -1,10 +1,8 @@
 ---
-id: 344
 title: 'Seed Funding from Pitt&#8217;s Center for Energy'
 date: 2010-03-30T18:42:39+00:00
 author: Geoff Hutchison
-layout: post
-guid: http://hutchison.chem.pitt.edu/?p=344
+layout: single
 permalink: /2010/03/seed-funding-from-pitts-center-for-energy/
 categories:
   - News

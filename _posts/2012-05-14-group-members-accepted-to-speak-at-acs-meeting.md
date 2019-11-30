@@ -1,10 +1,8 @@
 ---
-id: 622
 title: Group Members Accepted to Speak at ACS Meeting
 date: 2012-05-14T15:35:37+00:00
 author: Paula Hoffmann
-layout: post
-guid: http://hutchison.chem.pitt.edu/?p=622
+layout: single
 permalink: /2012/05/group-members-accepted-to-speak-at-acs-meeting/
 categories:
   - News
@@ -13,4 +11,4 @@ Group members Steve Owens, Andrey Sharapov, Xinfeng Quan, and Xialing Chen have 
 
 Professor Hutchison will also be giving several talks.
 
-Congratulations! More details on the talks will be posted when available later this summer.
+Congratulations! More details on the talks will be postsed when available later this summer.

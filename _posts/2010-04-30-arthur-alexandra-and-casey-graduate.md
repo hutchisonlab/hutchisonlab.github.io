@@ -1,10 +1,8 @@
 ---
-id: 104
 title: Arthur, Alexandra, and Casey Graduate
 date: 2010-04-30T11:19:21+00:00
 author: Geoff Hutchison
-layout: post
-guid: https://geoffh.wordpress.com/?p=104
+layout: single
 permalink: /2010/04/arthur-alexandra-and-casey-graduate/
 jabber_published:
   - "1309965723"

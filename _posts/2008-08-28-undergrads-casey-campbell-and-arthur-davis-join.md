@@ -1,10 +1,8 @@
 ---
-id: 89
 title: Undergrads Casey Campbell and Arthur Davis Join
 date: 2008-08-28T13:48:00+00:00
 author: Geoff Hutchison
-layout: post
-guid: https://geoffh.wordpress.com/?p=89
+layout: single
 permalink: /2008/08/undergrads-casey-campbell-and-arthur-davis-join/
 jabber_published:
   - "1309888082"

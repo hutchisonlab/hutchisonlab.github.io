@@ -1,0 +1,15 @@
+main:
+  - title: People
+    url: /people/
+  - title: News
+    url: /news/
+  - title: Research
+    url: /research/
+  - title: Papers
+    url: /papers/
+  - title: Teaching
+    url: /teaching/
+  - title: Software
+    url: /software/
+  - title: Funding
+    url: /funding/

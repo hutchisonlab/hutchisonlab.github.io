@@ -1,10 +1,8 @@
 ---
-id: 314
 title: Paula Hoffmann and Steven Owens Join
 date: 2011-03-15T14:58:08+00:00
 author: Paula Hoffmann
-layout: post
-guid: http://hutchison.chem.pitt.edu/wordpress/?p=314
+layout: single
 permalink: /2011/03/paula-hoffmann-and-steven-owens-join/
 categories:
   - News

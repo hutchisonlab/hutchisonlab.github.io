@@ -1,0 +1,45 @@
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="feature__item--left">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | relative_url }}"
+          {% endif %}
+          alt="" style="max-height: 300px;">
+      </div>
+    <div class="archive__item-body">
+    <h3 class="archive__item-title" itemprop="headline">
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
+      {% endif %}
+    </h3>
+    {% if post.read_time %}
+    <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
+    {% endif %}
+    <p class="archive__item-excerpt" itemprop="description">
+    {% if post.citation %}
+    {{post.citation |markdownify}}
+    {% endif %}
+    {% if post.doi %}
+    <a href="{{post.doi}}"><i class="fas fa-external-link-alt"></i></a>
+    {% endif %}
+    </p>
+    </div>
+  </article>
+</div>

@@ -1,10 +1,8 @@
 ---
-id: 97
 title: Tamika Madison Joins Group
 date: 2009-06-01T13:51:00+00:00
 author: Geoff Hutchison
-layout: post
-guid: https://geoffh.wordpress.com/?p=97
+layout: single
 permalink: /2009/06/tamika-madison-joins-group/
 jabber_published:
   - "1309888297"

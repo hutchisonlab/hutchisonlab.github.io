@@ -1,3 +1,239 @@
-url: https://hutchison.chem.pitt.edu
-name: Hutchison Group
-description: Materials Chemistry Research at Pitt
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Site Settings
+remote_theme             : "mmistakes/minimal-mistakes"
+locale                   : "en-US"
+title                    : "Hutchison Group"
+subtitle                 : "Finding Materials Fast"
+title_separator          : "-"
+name                     : "Hutchison Research"
+description              : "Materials Chemistry Research at Pitt"
+url                      : "https://hutchison.chem.pitt.edu"
+repository               : ghutchis/hutchison.chem.pitt.edu
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+comments:
+  provider               : false # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+search                   : true
+search_full-content      : true
+search_provide           : algolia
+#minimal_mistakes_skin    : contrast
+
+
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
+
+owner:
+  name: Geoff Hutchison
+  twitter: ghutchis
+  github: ghutchis
+  avatar: logo.png
+  email: geoffh@pitt.edu
+
+
+# Social Sharing
+twitter:
+  username               : ghutchis
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ghutchis"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ghutchis"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=2IsvEEYAAAAJ"
+    - label: "Publons"
+      icon: "fas fa-fw fa-file-powerpoint"
+      url: "https://publons.com/researcher/1317641/geoffrey-hutchison/"
+
+# Analytics
+analytics:
+  provider               : false # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :
+
+author:
+  name             : "Geoff Hutchison"
+  avatar           : "/images/avogadro.svg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "We Like Chemistry."
+  location         : "Pittsburgh"
+  email            : "geoffh@pitt.edu"
+  uri              : "http://hutchison.chem.pitt.edu/"
+  github           : ghutchis
+  twitter          : ghutchis
+  youtube          : # YouTubeChannel
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: true
+
+# Jekyll Scholar (bibtex) settings:
+scholar:
+  style: american-chemical-society
+  details_layout: details.html
+  sort_by: year
+  order: descending
+
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /:num/
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-redirect-from
+  - jekyll-paginate
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-scholar
+  - jemoji
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-remote-theme
+  - jekyll-redirect-from
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: jekyll-archives
+  path: /
+tag_archive:
+  type: liquid
+  path: /tags/
+
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+# Collections / Categories
+collections:
+  papers:
+    output: true
+    permalink: /:collection/:path/
+  preprints:
+    output: true # included in papers
+    permalink: /:collection/:path/
+
+# Defaults
+defaults:
+  # everything
+  - scope:
+      path: ""
+    values:
+      layout: single
+      comments: false
+      share: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+      read_time: false
+      related: false
+      comments: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      author_profile: false
+      related: true
+  - scope:
+      path: ""
+      type: papers
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      related: true
+  - scope:
+      path: ""
+      type: "preprints"
+    values:
+      layout: Single
+      author_profile: false
+      share: true
+      related: true
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - .jekyll-cache
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .DS_Store
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+  - _docs/LICENSE.md
+  - _docs/README.md
+  - _docs/SUMMARY.md
+  - _docs/book.json
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"

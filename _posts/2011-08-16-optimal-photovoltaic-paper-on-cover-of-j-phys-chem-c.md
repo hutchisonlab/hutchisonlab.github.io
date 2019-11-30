@@ -1,10 +1,8 @@
 ---
-id: 378
 title: Optimal Photovoltaic Paper on Cover of J. Phys. Chem. C
 date: 2011-08-16T17:56:28+00:00
 author: Geoff Hutchison
-layout: post
-guid: http://hutchison.chem.pitt.edu/?p=378
+layout: single
 permalink: /2011/08/optimal-photovoltaic-paper-on-cover-of-j-phys-chem-c/
 image: /wordpress/wp-content/uploads/2011/08/jpccck_v115i03211.jpg
 categories:

@@ -1,10 +1,8 @@
 ---
-id: 617
 title: Seminars at Williams and Bryn Mawr Colleges
 date: 2012-05-09T14:42:59+00:00
 author: Geoff Hutchison
-layout: post
-guid: http://hutchison.chem.pitt.edu/?p=617
+layout: single
 permalink: /2012/05/seminars-at-williams-and-bryn-mawr-colleges/
 categories:
   - Presentations

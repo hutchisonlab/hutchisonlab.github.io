@@ -1,10 +1,8 @@
 ---
-id: 964
 title: Dr. Andrey Sharapov Defends
 date: 2013-05-01T08:42:47+00:00
 author: Geoff Hutchison
-layout: post
-guid: http://hutchison.chem.pitt.edu/?p=964
+layout: single
 permalink: /2013/05/dr-andrey-sharapov-defends/
 categories:
   - News

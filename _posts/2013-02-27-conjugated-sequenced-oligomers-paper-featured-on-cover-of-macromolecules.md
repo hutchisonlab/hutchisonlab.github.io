@@ -1,11 +1,8 @@
 ---
-id: 925
 title: Conjugated Sequenced Oligomers Paper Featured on Cover of Macromolecules
 date: 2013-02-27T02:42:56+00:00
 author: Geoff Hutchison
-layout: post
-guid: http://hutchison.chem.pitt.edu/?p=925
-permalink: /2013/02/conjugated-sequenced-oligomers-paper-featured-on-cover-of-macromolecules/
+layout: single
 categories:
   - News
 ---

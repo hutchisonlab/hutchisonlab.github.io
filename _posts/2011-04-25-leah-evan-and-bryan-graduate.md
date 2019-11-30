@@ -1,10 +1,8 @@
 ---
-id: 422
 title: Leah, Evan, and Bryan Graduate
 date: 2011-04-25T19:11:18+00:00
 author: Paula Hoffmann
-layout: post
-guid: http://hutchison.chem.pitt.edu/?p=422
+layout: single
 permalink: /2011/04/leah-evan-and-bryan-graduate/
 categories:
   - News

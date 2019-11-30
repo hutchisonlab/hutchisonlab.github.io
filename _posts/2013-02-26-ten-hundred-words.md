@@ -1,10 +1,8 @@
 ---
-id: 922
 title: Ten Hundred Words
 date: 2013-02-26T15:43:14+00:00
 author: Geoff Hutchison
-layout: post
-guid: http://hutchison.chem.pitt.edu/?p=922
+layout: single
 permalink: /2013/02/ten-hundred-words/
 categories:
   - News

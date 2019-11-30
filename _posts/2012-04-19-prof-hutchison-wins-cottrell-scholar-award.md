@@ -1,10 +1,8 @@
 ---
-id: 581
 title: Prof. Hutchison wins Cottrell Scholar Award
 date: 2012-04-19T19:22:08+00:00
 author: Paula Hoffmann
-layout: post
-guid: http://hutchison.chem.pitt.edu/?p=581
+layout: single
 permalink: /2012/04/prof-hutchison-wins-cottrell-scholar-award/
 categories:
   - Awards
