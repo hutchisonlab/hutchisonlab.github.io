@@ -9,9 +9,10 @@ categories:
 header:
   teaser: /images/abstracts/xinfeng-piezo.png
 doi: https://arxiv.org/abs/1706.08993
+citation: "_arXiv_"
 ---
 
-{{ page.authors }}. "{{ page.title }}" arXiv. [Online]({{ page.doi }})
+{{ page.authors }}. "{{ page.title }}" {{page.citation}}. [Online]({{ page.doi }})
 
 <!--more-->
 

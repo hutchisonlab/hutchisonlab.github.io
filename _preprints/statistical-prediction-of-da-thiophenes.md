@@ -9,8 +9,9 @@ categories:
 header:
   teaser: /images/abstracts/mike-copolymer.png
 doi: //doi.org/10.26434/chemrxiv.8135288.v1
+citation: "_ChemRxiv_"
 ---
-{{ page.authors }}. "{{ page.title }}" ChemRxiv. [Online]({{ page.doi }})
+{{ page.authors }}. "{{ page.title }}" {{page.citation}} [Online]({{ page.doi }})
 
 <!--more-->
 

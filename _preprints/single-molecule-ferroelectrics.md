@@ -9,9 +9,10 @@ categories:
 header:
   teaser: /images/abstracts/Ferroelectric.png
 doi: https://arxiv.org/abs/1705.09699
+citation: "_arXiv_"
 ---
 
-Xinfeng Quan, Geoffrey R. Hutchison. "{{ page.title }}" arXiv. [Online]({{ page.doi }})
+Xinfeng Quan, Geoffrey R. Hutchison. "{{ page.title }}" {{page.citation}}. [Online]({{ page.doi }})
 
 <!--more-->
 

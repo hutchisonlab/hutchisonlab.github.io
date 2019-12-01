@@ -10,9 +10,10 @@ categories:
 header:
   teaser: /images/abstracts/ga-scaling.png
 doi: https://arxiv.org/abs/1707.02949
+citation: "_arXiv_"
 ---
 
-Ilana Y. Kanal Geoffrey R. Hutchison. "{{ page.title }}" arXiv. [Online]({{page.doi}}
+Ilana Y. Kanal Geoffrey R. Hutchison. "{{ page.title }}" {{page.citation}} [Online]({{page.doi}}
 
 <!--more-->
 

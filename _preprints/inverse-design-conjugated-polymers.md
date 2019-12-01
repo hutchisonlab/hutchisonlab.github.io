@@ -10,9 +10,10 @@ categories:
 header:
   teaser: /images/abstracts/ilana-homopolymer.png
 doi: https://arxiv.org/abs/1706.10243
+citation: "_arXiv_"
 ---
 
-Ilana Y. Kanal, Steven G. Owens, Andrey B. Sharapov, Geoffrey R. Hutchison. "{{ page.title }}" arXiv. [Online]({{page.doi}})
+Ilana Y. Kanal, Steven G. Owens, Andrey B. Sharapov, Geoffrey R. Hutchison. "{{ page.title }}" {{page.citation}} [Online]({{page.doi}})
 
 <!--more-->
 

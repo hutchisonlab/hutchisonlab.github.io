@@ -9,9 +9,10 @@ categories:
 header:
   teaser: /images/abstracts/keith-piezo-tensor.png
 doi: https://arxiv.org/abs/1707.07464
+citation: "_arXiv_"
 ---
 
-Keith A. Werling, Geoffrey R. Hutchison, Daniel S. Lambrecht. "{{ page.title }}" arXiv. [Online]({{page.doi}}
+Keith A. Werling, Geoffrey R. Hutchison, Daniel S. Lambrecht. "{{ page.title }}" {{page.citation}}. [Online]({{page.doi}}
 
 <!--more-->
 

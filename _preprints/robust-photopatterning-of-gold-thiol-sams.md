@@ -9,8 +9,9 @@ categories:
 header:
   teaser: /images/abstracts/2019-sam-patterning.png
 doi: //doi.org/10.26434/chemrxiv.9201983.v1
+citation: "_ChemRxiv_"
 ---
-Nathaniel C. Miller, Geoffrey R. Hutchison. "{{ page.title }}" ChemRxiv. [Online]({{ page.doi }})
+Nathaniel C. Miller, Geoffrey R. Hutchison. "{{ page.title }}" {{page.citation}} [Online]({{ page.doi }})
 
 <!--more-->
 

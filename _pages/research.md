@@ -31,7 +31,7 @@ Our group is creating monolayer and nanoscale transistors with designed defects:
 ## Recent Publications
 
 <div class="grid__wrapper">
-  {% assign papers = (site.papers | sort: 'date') | reverse %}
+  {% assign papers = site.papers | sort: 'date' | reverse %}
   {% for post in papers limit:8 %}
       {% include archive-single-date.html type="grid" %}
   {% endfor %}

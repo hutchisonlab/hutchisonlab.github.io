@@ -4,7 +4,7 @@ layout: single
 permalink: /charge-transport/
 ---
 
-Our group wants to understand the fundamental properties of molecular electronic materials in order to produce
+Our group seeks to understand the fundamental properties of molecular electronic materials in order to produce
 new materials with higher charge mobility and conductivity, resulting in more efficient devices, including
 organic solar cells, light emitting diodes, flexible electronics, sensors, batteries, etc.
 
@@ -23,7 +23,7 @@ Our goal is to scale down our experimental transistors and scale up our simulati
 ## Recent Publications:
 
 <div class="grid__wrapper">
-  {% assign papers = (site.papers | where:"categories","Charge Transport" | sort: 'date') | reverse %}
+  {% assign papers = site.papers | where:"categories","Charge Transport" | sort: 'date' | reverse %}
   {% for post in papers limit:4 %}
       {% include archive-single-date.html type="grid" %}
   {% endfor %}

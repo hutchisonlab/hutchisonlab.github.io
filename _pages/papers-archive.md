@@ -37,7 +37,8 @@ author_profile: false
 <section id="Preprints" class="taxonomy__section">
   <h2 class="archive__subtitle">In the Pipeline Preprints</h2>
   <div class="entries-{{ page.entries_layout | default: 'list' }}">
-    {% for post in site.preprints %}
+    {% assign papers = site.preprints | sort: 'date' | reverse %}
+    {% for post in papers %}
       {% include archive-paper.html type=page.entries_layout %}
     {% endfor %}
   </div>

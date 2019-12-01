@@ -8,10 +8,11 @@ categories:
   - Preprints
 header:
   teaser: /images/abstracts/andrey-harris.png
-doi: //doi.org/10.26434/chemrxiv.5313478.v1)
+doi: //doi.org/10.26434/chemrxiv.5313478.v1
+citation: "_ChemRxiv_"
 ---
 
-Andrey B. Sharapov, Geoffrey R. Hutchison. "{{ page.title }}" ChemRxiv. [DOI]({{page.doi}})
+Andrey B. Sharapov, Geoffrey R. Hutchison. "{{ page.title }}" {{page.citation}} [DOI]({{page.doi}})
 
 <!--more-->
 

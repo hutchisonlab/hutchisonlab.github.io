@@ -18,7 +18,7 @@ We are using computational methods to drive an “evolutionary algorithm” and 
 ## Recent Publications:
 
 <div class="grid__wrapper">
-  {% assign papers = (site.papers | where:"categories","Organic Electronics" | sort: 'date') | reverse %}
+  {% assign papers = site.papers | where:"categories","Organic Electronics" | sort: 'date' | reverse %}
   {% for post in papers limit:4 %}
       {% include archive-single-date.html type="grid" %}
   {% endfor %}
