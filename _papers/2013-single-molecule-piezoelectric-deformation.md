@@ -9,7 +9,7 @@ categories:
 header:
   teaser: /images/abstracts/2013-single-mol-piezo.gif
 doi: http://doi.org/10.1021/jp404252v
-citation: 'J. Phys. Chem. C_. **2013**, 117 (33), pp 16783–16790.'
+citation: '_J. Phys. Chem. C_. **2013**, 117 (33), pp 16783–16790.'
 ---
 Xinfeng Quan, Christopher W Marvin, Leah Seebald, and Geoffrey R Hutchison. "{{page.title}}" {{page.citation}} [Online]({{page.doi}}). Supporting information is available at [QuanSI](http://pubs.acs.org/doi/suppl/10.1021/jp404252v).
 

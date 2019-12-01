@@ -19,7 +19,7 @@
           {% else %}
             "{{ teaser | relative_url }}"
           {% endif %}
-          alt="" style="max-height: 300px;">
+          alt="" style="max-height: 300px !important;">
       </div>
     <div class="archive__item-body">
     <h3 class="archive__item-title" itemprop="headline">
@@ -34,7 +34,7 @@
     {% endif %}
     <p class="archive__item-excerpt" itemprop="description">
     {% if post.citation %}
-    {{post.citation |markdownify}}
+    {{post.citation |markdownify | remove: '<p>' | remove: '</p>'}}
     {% endif %}
     {% if post.doi %}
     <a href="{{post.doi}}"><i class="fas fa-external-link-alt"></i></a>

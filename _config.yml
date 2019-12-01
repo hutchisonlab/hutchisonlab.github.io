@@ -24,7 +24,8 @@ search                   : true
 search_full-content      : true
 search_provide           : algolia
 #minimal_mistakes_skin    : contrast
-
+paginate: 10 # amount of posts to show
+paginate_path: "news/page:num"
 
 # SEO Related
 google_site_verification :
@@ -163,7 +164,7 @@ defaults:
     values:
       layout: single
       comments: false
-      share: true
+      share: false
   # _posts
   - scope:
       path: ""
@@ -187,15 +188,15 @@ defaults:
       layout: single
       author_profile: false
       share: true
-      related: true
+      related: false
   - scope:
       path: ""
-      type: "preprints"
+      type: preprints
     values:
-      layout: Single
+      layout: single
       author_profile: false
       share: true
-      related: true
+      related: false
 
 
 # Reading Files

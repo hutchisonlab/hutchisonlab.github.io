@@ -1,6 +1,5 @@
 ---
 title: Open Source Science
-date: 2019-05-27T22:36:37+00:00
 layout: single
 permalink: /software/
 ---

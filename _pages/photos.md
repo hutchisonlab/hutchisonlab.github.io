@@ -1,6 +1,5 @@
 ---
 title: Photos
-date: 2011-06-28T13:36:14+00:00
 author: Geoff Hutchison
 layout: page
 permalink: /photos/

@@ -9,7 +9,7 @@ categories:
 header:
   teaser: /images/abstracts/2013-efficient-screening-review.gif
 doi: https://doi.org/10.1021/jz400215j
-citation: '-J. Phys. Chem. Lett._ (**2013**) _4_(10), 1613-1623.'
+citation: '_J. Phys. Chem. Lett._ (**2013**) _4_(10), 1613-1623.'
 ---
 Ilana Y. Kanal, Steven G. Owens, Jonathon S. Bechtel, Geoffrey R. Hutchison. &#8220;{{page.title}}&#8221; {{page.citation}} [DOI]({{page.doi}}).
 

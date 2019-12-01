@@ -1,6 +1,5 @@
 ---
 title: Teaching
-date: 2019-09-28T11:34:28+00:00
 author: Geoff Hutchison
 layout: single
 permalink: /teaching/

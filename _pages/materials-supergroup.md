@@ -1,8 +1,7 @@
 ---
 title: 'Materials &#8220;SuperGroup&#8221; Meetings'
-date: 2012-01-10T16:45:19+00:00
 author: Geoff Hutchison
-layout: page
+layout: single
 ---
 The [chemistry department](http://www.chem.pitt.edu/) at the [University of Pittsburgh](http://www.pitt.edu/) has had a long history of multi-group meetings in organic, synthetic chemistry, including topics in biology, medicine, and drug-discovery.
 
@@ -24,7 +23,7 @@ Unless otherwise noted, seminars are held in the [Chevron Science Center](http:/
   <p>
     <strong>November 30th</strong>
   </p>
-  
+
   <ul>
     <li>
       <strong>Special Seminar</strong>
@@ -75,19 +74,19 @@ Fall seminars will be announced soon, starting with an end of August meeting. An
       <img src="https://i0.wp.com/groups.google.com/intl/en/images/logos/groups_logo_sm.gif?resize=140%2C30" alt="Google Groups" width="140" height="30" data-recalc-dims="1" />
     </td>
   </tr>
-  
+
   <tr>
     <td style="padding-left: 5px;">
       <strong>Subscribe to Pittsburgh Materials SuperGroup</strong>
     </td>
   </tr>
-  
+
   <tr>
     <td style="padding-left: 5px;">
       Email:<input type="text" name="email" /> <input type="submit" name="sub" value="Subscribe" />
     </td>
   </tr>
-  
+
   <tr>
     <td align="right">
       <a href="http://groups.google.com/group/pittsburgh-materials-supergroup">Visit this group</a>

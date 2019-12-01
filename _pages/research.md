@@ -1,16 +1,16 @@
 ---
 title: Combining Experiment & Theory in Organic Electronic Materials
-date: 2011-06-28T11:27:48+00:00
 author: Geoff Hutchison
 layout: single
 permalink: /research/
+share: false
 ---
 
-Our group combines experimental and computational investigations to gain deep understanding of organic electronic materials. The bottom line is to efficiently design novel molecular materials with improved properties. Below are three areas we are currently studying in our lab.
+Our group combines experimental and computational investigations to gain deep understanding of organic electronic materials. The bottom line is to efficiently design novel molecular materials with improved properties. Below are areas we are currently studying in our lab.
 
-## Molecular Piezoelectrics
+## [Molecular Piezoelectrics](/piezoelectrics/)
 
-Piezoelectric materials deform shape in response to an electric field and are used in everything from high-tech atomic force microscopes (AFM) to airbag impact sensors in cars. Our group is creating nanoscale piezoelectric materials with high deformation. Potential applications include energy generation and highly sensitive sensors.
+[Piezoelectric materials](/piezoelectrics) deform shape in response to an electric field and are used in everything from high-tech atomic force microscopes (AFM) to airbag impact sensors in cars. Our group is creating nanoscale piezoelectric materials with high deformation. Potential applications include energy generation and highly sensitive sensors.
 
 ## Organic Electronics
 
@@ -22,8 +22,17 @@ Our group is creating monolayer and nanoscale transistors with designed defects:
 
 ## Cheminformatics
 
-## Machine learning
 
 ## Evolutionary Algorithms
 
-## Recent Papers
+
+## Machine Learning
+
+## Recent Publications
+
+<div class="grid__wrapper">
+  {% assign papers = (site.papers | sort: 'date') | reverse %}
+  {% for post in papers limit:8 %}
+      {% include archive-single-date.html type="grid" %}
+  {% endfor %}
+</div>

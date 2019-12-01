@@ -1,14 +1,15 @@
 ---
 title: People
-date: 2011-06-28T12:24:04+00:00
 author: Geoff Hutchison
-layout: page
+layout: single
+permalink: /people/
 ---
-#### [**<span style="color: #800000;">Prof. Geoff Hutchison</span>**](http://hutchison.chem.pitt.edu/people/prof-hutchison/ "Prof. Hutchison")
 
-[<img class="alignright size-full wp-image-169" title="Geoff" src="https://i2.wp.com/pre.hutchison.chem.pitt.edu/wordpress/wp-content/uploads/2011/07/shapeimage_111.jpg?resize=75%2C105" alt="" width="75" height="105" data-recalc-dims="1" />](https://i2.wp.com/pre.hutchison.chem.pitt.edu/wordpress/wp-content/uploads/2011/07/shapeimage_111.jpg)Geoff grew up in upstate New York and attended [Williams College](http://www.williams.edu/) for undergrad. His Ph.D. is from [Northwestern University](http://www.chem.northwestern.edu/), where he worked on rational design of transparent and conducting polymers. His postdoctoral research at [Cornell University](http://www.chem.cornell.edu/) focused on single-molecule wires and novel cathodes for lithium-ion batteries.
+## Prof. Hutchison
 
-#### <span style="color: #800000;"><strong>Graduate Students</strong></span>
+Geoff grew up in upstate New York and attended [Williams College](http://www.williams.edu/) for undergrad. His Ph.D. is from [Northwestern University](http://www.chem.northwestern.edu/), where he worked on rational design of transparent and conducting polymers. His postdoctoral research at [Cornell University](http://www.chem.cornell.edu/) focused on single-molecule wires and novel cathodes for lithium-ion batteries.
+
+## Graduate Students
 
 **[<img class="alignright wp-image-559" title="Chris" src="https://i1.wp.com/pre.hutchison.chem.pitt.edu/wordpress/wp-content/uploads/2011/06/Chris11-237x300.jpg?resize=85%2C108" alt="" width="85" height="108" srcset="https://i2.wp.com/hutchison.chem.pitt.edu/wordpress/wp-content/uploads/2011/06/Chris11.jpg?resize=237%2C300 237w, https://i2.wp.com/hutchison.chem.pitt.edu/wordpress/wp-content/uploads/2011/06/Chris11.jpg?resize=811%2C1024 811w, https://i2.wp.com/hutchison.chem.pitt.edu/wordpress/wp-content/uploads/2011/06/Chris11.jpg?w=923 923w" sizes="(max-width: 85px) 100vw, 85px" data-recalc-dims="1" />](https://i0.wp.com/pre.hutchison.chem.pitt.edu/wordpress/wp-content/uploads/2011/06/Chris11.jpg)Christopher Marvin** is from Charleston, SC, but has decided to brave the cold in Pittsburgh. He works on synthesis and characterization techniques for the [single-molecule piezoelectrics](http://hutchison.chem.pitt.edu/research/molecular-springs/) project.
 

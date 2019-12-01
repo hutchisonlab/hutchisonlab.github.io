@@ -1,6 +1,5 @@
 ---
 title: Organic Electronics
-date: 2015-05-27T22:36:58+00:00
 layout: single
 permalink: /organic-electronics/
 ---
@@ -16,12 +15,11 @@ Our work on [charge transport](/charge-transport/) have allowed us to simulate a
 We are using computational methods to drive an “evolutionary algorithm” and quickly locate conducting polymers with tailored band gaps and energetics. Our approach has created a modeling pipeline for filtering through millions of possible co-polymers. To date, we have discovered thousands of high-efficiency candidates and are analyzing trends and synthetic accessibility.
 
 
-<div class="page__related">
-<h2>Recent Publications:</h2>
-  <div class="grid__wrapper">
-    {% assign papers = site.papers | where:"category","Organic Electronics" %}
-    {% for paper in site.papers limit:5 %}
-      {% include archive-single.html %}
-    {% endfor %}
-  </div>
+## Recent Publications:
+
+<div class="grid__wrapper">
+  {% assign papers = (site.papers | where:"categories","Organic Electronics" | sort: 'date') | reverse %}
+  {% for post in papers limit:4 %}
+      {% include archive-single-date.html type="grid" %}
+  {% endfor %}
 </div>

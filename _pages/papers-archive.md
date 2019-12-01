@@ -1,8 +1,9 @@
 ---
-layout: splash
+layout: single
 title: "Publications"
 collection: papers
 permalink: /papers/
+redirect_from: /preprints/
 author_profile: false
 ---
 
