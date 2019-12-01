@@ -10,6 +10,7 @@ We investigate the electromechanical effects of individual molecular monolayers 
 
 Piezoelectric materials deform shape in response to an electric field and are used in everything from high-tech atomic force microscopes (AFM) to airbag impact sensors in cars. Our group is creating nanoscale piezoelectric materials with high deformation. Potential applications include energy generation and highly sensitive sensors.
 
+<img src="/images/piezo-foam.jpg" alt="helicene piezoelectric" width="300px"/>{: .align-right}
 We use computational modeling to understand the connection between molecular structure and piezoelectric response. Based on these simulations, we have started developing “design rules” for synthetic organic piezoelectrics and are using a variety of experimental techniques to characterize monolayers and thin films to characterize this phenomenon.
 
 

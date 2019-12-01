@@ -108,7 +108,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jekyll-scholar
   - jemoji
 
 # mimic GitHub Pages with --safe

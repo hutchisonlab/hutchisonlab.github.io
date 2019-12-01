@@ -12,13 +12,17 @@ To do this, we combine experimental investigation of monolayer and nanoscale tra
 
 ## Experiment
 
+<img src="/images/3probe.jpg" alt="3-probe charge transport" width="300px"/>{: .align-right}
 We synthesize a range of _inorganic_ semiconducting complexes, such as metal phthalocyanines, as well as organic oligomers and polymers. We can tailor the relative electronic structure and concentrations of intentional designer defects. We fabricate our own chips and perform detailed device-level electrical characterization of the materials.
 
 We also study nanoscale performance of devices using atomic force microscopy, including conductive-probe, electrostatic-force microscopy (local dielectric constant), and scanning-Kelvin probe microscopy.
 
 ## Theory and Simulation
 
+<img src="/images/trapb.png" alt="charge traps" width="300px"/>{: .align-right}
 Our goal is to scale down our experimental transistors and scale up our simulations to provide a 1:1 correspondence between experiment and theory, benefiting both communities. So far, our code can easily handle micron-scale devices. We have demonstrated the exact distribution of charged and neutral defects in realistic transistors and the effect of Coulomb interactions on carrier trajectories. Results correlate extremely well with experiments.
+
+_In future work, we seek to use our combined approach to find materials with rapid charge transport for more efficient solar cells, transistors, light emitting diodes, and other applications._
 
 ## Recent Publications:
 
