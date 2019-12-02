@@ -54,8 +54,8 @@ current_grads:
     excerpt: "*Polymer Synthesis Pro (2017-)*<br>
     **Anneliese synthesizes polymers with the [Meyer Group](http://www.meyer-chemistry.com), designing conjugated, polarizable sequenced oligomers for high capacitance energy storage.** Anneliese received her B.S. in chemistry from the University of South Carolina Upstate, with industrial research at Milliken and Company, where she synthesized small molecules as additives to improve various polymers’ properties, e.g. toughness or permeability.  The goal of my current project is to understand how the sequence of polymer side chains affects the dielectric constant of the polymer."
   - image_path: /images/people/danielle.jpg
-    alt: "Danielle Heiner"
-    title: "Danielle Heiner"
+    alt: "Danielle Hiener"
+    title: "Danielle Hiener"
     excerpt: "*Genetic Algorithm Optimization (2019-)*<br>
     **Danielle develops genetic algorithms to rapidly find oligomers with interesting electronic structure properties.** Danielle grew up in the Pittsburgh region and attended Grove City College, where she earned her B.S. in Chemistry. As an undergrad, she participated in computational research exploring temporary anion states. She enjoys sewing and ballroom/swing dancing."
   - image_path: /images/people/RyanWheat.jpg
