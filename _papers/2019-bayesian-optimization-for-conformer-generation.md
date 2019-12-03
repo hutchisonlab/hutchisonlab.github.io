@@ -1,6 +1,6 @@
 ---
 title: Bayesian optimization for conformer generation
-date: 2019-05-21T18:46:27+00:00
+date: 2019-05-21
 author: Geoff Hutchison
 layout: single
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Fast, efficient fragment-based coordinate generation for Open Babel
-date: 2019-08-01T18:46:27+00:00
+date: 2019-08-01
 author: Geoff Hutchison
 layout: single
 categories:

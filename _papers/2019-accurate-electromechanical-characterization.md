@@ -1,6 +1,6 @@
 ---
 title: Accurate Electromechanical Characterization of Soft Molecular Monolayers using Piezo Force Microscopy
-date: 2019-08-01T18:46:27+00:00
+date: 2019-11-01
 author: Geoff Hutchison
 layout: single
 categories:
@@ -9,7 +9,7 @@ categories:
 header:
   teaser: /images/abstracts/2019-dart-sweep.png
 doi: //doi.org/10.1039/C9NA00638A
-citation: "_Nanoscale Adv._"
+citation: "_Nanoscale Adv._ **2019**, _1_, 4834 - 4843"
 ---
 Nathaniel C. Miller, Haley Grimm, W. Seth Horne, Geoffrey R. Hutchison. "{{ page.title }}" {{page.citation}}. [DOI]({{page.doi}}){: .btn .btn--info}
 

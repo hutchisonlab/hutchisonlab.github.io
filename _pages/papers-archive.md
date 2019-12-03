@@ -50,7 +50,7 @@ author_profile: false
   <section id="{{ year.name }}" class="taxonomy__section">
     <h2 class="archive__subtitle">{{ year.name }}</h2>
     <div class="feature__wrapper">
-      {% for post in year.items %}
+      {% for post in year.items reversed %}
         {% include archive-paper.html type=page.entries_layout %}
       {% endfor %}
     </div>
