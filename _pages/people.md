@@ -63,6 +63,11 @@ current_grads:
     title: "Ryan Wheat"
     excerpt: "*Metal Organic Framework Finder (2019-)*<br>
     **Ryan combines his interests in computers and chemistry to find stable metal-organic frameworks for new properties.** Ryan received his B.S. in Chemistry and a Minor in Music from the Florida Institute of Technology. Spending the majority of his life in a small city in Florida, he finds Pittsburgh to be far colder and noisier."
+  - image_path: /images/people/Caroline.jpg
+    alt: "Caroline Chun"
+    title: "Caroline Chun"
+    excerpt: "*Just Starting (2020-)*<br>
+    Caroline grew up un Philadelphia, South Korea, and Virginia and received a B.S. in Chemistry from University in Virginia. Some of her interests include traveling, strolling around, and reading magical realism literature."
 ---
 
 {% include feature_row id="hutchison" type="left" %}
