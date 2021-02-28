@@ -1,6 +1,6 @@
 ---
 title: BOKEI Bayesian Optimization Using Knowledge of Correlated Torsions and Expected Improvement for Conformer Generation​
-date: 2019-08-02T18:46:27+00:00
+date: 2020-02-12T18:46:27+00:00
 author: Geoff Hutchison
 layout: single
 categories:
@@ -9,10 +9,10 @@ categories:
   - Preprints
 header:
   teaser: /images/abstracts/bokei.png
-doi: //doi.org/10.26434/chemrxiv.9209213.v1
-citation: "_ChemRxiv_"
+doi: //doi.org/10.1039/C9CP06688H
+citation: "_Phys. Chem. Chem. Phys._ (**2020**) _22_(9) 5211-5219."
 ---
-Leung Sing Chan, Garrett Morris, Geoffrey R. Hutchison. "{{ page.title }}​" {{page.citation}} [Online]({{ page.doi }})
+Leung Sing Chan, Garrett Morris, Geoffrey R. Hutchison. "{{ page.title }}​" {{page.citation}} [DOI]({{ page.doi }}){: .btn .btn--info} [Preprint](//doi.org/10.26434/chemrxiv.9209213){: .btn .btn--success}
 
 <!--more-->
 

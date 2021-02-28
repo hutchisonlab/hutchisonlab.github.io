@@ -12,7 +12,7 @@ header:
 doi: //doi.org/10.1186/s13321-019-0372-5
 citation: "_J. Cheminf._ (**2019**) _11_ art. 49."
 ---
-Naruki Yoshikawa, Geoffrey R. Hutchison. "{{ page.title }}" {{page.citation}} [DOI]({{page.doi}}){: .btn .btn--info} [Preprint](https://doi.org/10.26434/chemrxiv.7791947.v2){: .btn .btn--success}
+Naruki Yoshikawa, Geoffrey R. Hutchison. "{{ page.title }}" {{page.citation}} [DOI]({{page.doi}}){: .btn .btn--info} [Preprint](https://doi.org/10.26434/chemrxiv.7791947){: .btn .btn--success}
 
 <!--more-->
 
