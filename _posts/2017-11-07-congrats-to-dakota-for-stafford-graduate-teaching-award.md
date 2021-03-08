@@ -5,7 +5,7 @@ author: Geoff Hutchison
 layout: single
 permalink: /2017/11/congrats-to-dakota-for-stafford-graduate-teaching-award/
 categories:
-  - Awards
   - News
 ---
+
 Congratulations to Dakota for winning a 2017 Stafford Award for excellence in grad student teaching!
