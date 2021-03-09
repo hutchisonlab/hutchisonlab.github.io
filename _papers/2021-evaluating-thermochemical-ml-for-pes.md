@@ -1,6 +1,6 @@
 ---
 title: Evaluation of Thermochemical Machine Learning for Potential Energy Curves and Geometry Optimization
-date: 2020-02-25T18:46:27+00:00
+date: 2021-02-25T18:46:27+00:00
 author: Geoff Hutchison
 layout: single
 categories:

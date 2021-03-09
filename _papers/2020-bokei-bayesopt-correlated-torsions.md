@@ -12,7 +12,7 @@ header:
 doi: //doi.org/10.1039/C9CP06688H
 citation: "_Phys. Chem. Chem. Phys._ (**2020**) _22_(9) 5211-5219."
 ---
-Leung Sing Chan, Garrett Morris, Geoffrey R. Hutchison. "{{ page.title }}​" {{page.citation}} [DOI]({{ page.doi }}){: .btn .btn--info} [Preprint](//doi.org/10.26434/chemrxiv.9209213){: .btn .btn--success}
+Leung Sing Chan, Geoffrey R. Hutchison, Garrett Morris. "{{ page.title }}​" {{page.citation}} [DOI]({{ page.doi }}){: .btn .btn--info} [Preprint](//doi.org/10.26434/chemrxiv.9209213){: .btn .btn--success}
 
 <!--more-->
 
