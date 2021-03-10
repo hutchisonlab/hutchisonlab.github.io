@@ -13,8 +13,9 @@ subtitle                 : "Finding Materials Fast"
 title_separator          : "-"
 name                     : "Hutchison Research"
 description              : "Materials Chemistry Research at Pitt"
-url                      : "https://ghutchis.github.io"
-repository               : ghutchis/ghutchis.github.io
+logo                     : "/images/group-logo.png"
+url                      : "https://hutchisonlab.github.io"
+repository               : hutchisonlab/hutchisonlab.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 comments:
   provider               : false # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
