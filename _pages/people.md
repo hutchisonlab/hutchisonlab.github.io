@@ -29,13 +29,6 @@ hutchison:
     • 2001-2003 Northwestern University Materials Research Center Fellowship<br>
     "
 current_grads:
-  - image_path: /images/people/NathanielMiller.jpg
-    alt: "Nathaniel Miller"
-    title: "Nathaniel Miller"
-    excerpt: "*AFM Maestro (2015-)*<br>
-    **Nathaniel is using atomic force microscopy (AFM) to develop accurate electromechanical measurements, test novel
-    piezoelectric materials, and developing micro and nano-scale soft lithographic techniques.**
-    He attended the University of Pittsburgh Greensburg, completing a B.S. in Chemistry, followed by a P.S.M. in Industrial and Applied Chemistry from the Indiana University of Pennsylvania, while working in industry."
   - image_path: /images/people/ChrisPetroff.jpg
     alt: "Chris Petroff"
     title: "Chris Petroff"
@@ -56,7 +49,7 @@ current_grads:
   - image_path: /images/people/danielle.jpg
     alt: "Danielle Hiener"
     title: "Danielle Hiener"
-    excerpt: "*Genetic Algorithm Optimization (2019-)*<br>
+    excerpt: "*Genetic Algorithm Optimizer (2019-)*<br>
     **Danielle develops genetic algorithms to rapidly find oligomers with interesting electronic structure properties.** Danielle grew up in the Pittsburgh region and attended Grove City College, where she earned her B.S. in Chemistry. As an undergrad, she participated in computational research exploring temporary anion states. She enjoys sewing and ballroom/swing dancing."
   - image_path: /images/people/RyanWheat.jpg
     alt: "Ryan Wheat"
@@ -66,8 +59,13 @@ current_grads:
   - image_path: /images/people/Caroline.jpg
     alt: "Caroline Chun"
     title: "Caroline Chun"
-    excerpt: "*Just Starting (2020-)*<br>
-    Caroline grew up un Philadelphia, South Korea, and Virginia and received a B.S. in Chemistry from University in Virginia. Some of her interests include traveling, strolling around, and reading magical realism literature."
+    excerpt: "*Peptide AFM Virtuoso (2020-)*<br>
+    Caroline grew up in Philadelphia, South Korea, and Virginia and received a B.S. in Chemistry from the University of Virginia. Some of her interests include traveling, strolling around, and reading magical realism literature."
+  - image_path: /images/people/omri.jpg
+    alt: "Omri Abarbanel"
+    title: "Omri Abarbanel"
+    excerpt: "*Machine Learning Maestro (2020-)*<br>
+    Omri was born in Israel and moved to the United States in 2011. He got his BS in Chemistry from CUNY Hunter College in 2017, and did a research internship on second harmonic generation imaging of peptide self-assembly structures with Dr. Rein Ulijn at CUNY Advanced Science Research Center. After that, he moved to Pittsburgh in 2018 to start his graduate program in Chemistry at the University of Pittsburgh."
 ---
 
 {% include feature_row id="hutchison" type="left" %}
