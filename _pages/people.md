@@ -65,7 +65,12 @@ current_grads:
     alt: "Omri Abarbanel"
     title: "Omri Abarbanel"
     excerpt: "*Machine Learning Maestro (2020-)*<br>
-    **Omri combines his interest in chemistry and coding to find ML methods for rapid screening of complex molecular properties.** Omri was born in Israel and moved to the United States in 2011. He received his BS in Chemistry from CUNY Hunter College in 2017, and did a research internship on second harmonic generation imaging of peptide self-assembly structures with Dr. Rein Ulijn at CUNY Advanced Science Research Center. After that, he moved to Pittsburgh in 2018 to start his graduate program in Chemistry at the University of Pittsburgh."
+    **Omri combines his interest in chemistry and coding to find ML methods for rapid screening of complex molecular properties.** Omri was born in Israel and moved to the United States in 2011. He received his B.S. in Chemistry from CUNY Hunter College in 2017, and did a research internship on second harmonic generation imaging of peptide self-assembly structures with Dr. Rein Ulijn at CUNY Advanced Science Research Center. After that, he moved to Pittsburgh in 2018 to start his graduate program in Chemistry at the University of Pittsburgh."
+  - image_path: /images/people/brianna.jpg
+    alt: "Brianna Greenstein"
+    title: "Brianna Greenstein"
+    excerpt: "*Organic Solar Cell Explorer (2020-)*<br>
+    **Brianna utilizes computational methods and data science to optimize organic solar cells.** Brianna grew up in New York and received her B.S. in Chemistry from SUNY Binghamton University, where she did research on metal alloy nanoparticles as catalysts for CO<sub>2</sub> reduction. Here at Pitt, she was lured away from nanoparticle research during the COVID-19 lockdown. During her free time she enjoys painting and drawing."
 ---
 
 {% include feature_row id="hutchison" type="left" %}
