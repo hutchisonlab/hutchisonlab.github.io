@@ -60,12 +60,12 @@ current_grads:
     alt: "Caroline Chun"
     title: "Caroline Chun"
     excerpt: "*Peptide AFM Virtuoso (2020-)*<br>
-    Caroline grew up in Philadelphia, South Korea, and Virginia and received a B.S. in Chemistry from the University of Virginia. Some of her interests include traveling, strolling around, and reading magical realism literature."
+    **Caroline is working to find oligopeptides and other self-assembled monolayers with piezo activity using piezo-force microscopy (PFM/AFM) and calculations.** Caroline grew up in Philadelphia, South Korea, and Virginia and received a B.S. in Chemistry from the University of Virginia. Some of her interests include traveling, strolling around, and reading magical realism literature."
   - image_path: /images/people/omri.jpg
     alt: "Omri Abarbanel"
     title: "Omri Abarbanel"
     excerpt: "*Machine Learning Maestro (2020-)*<br>
-    Omri was born in Israel and moved to the United States in 2011. He got his BS in Chemistry from CUNY Hunter College in 2017, and did a research internship on second harmonic generation imaging of peptide self-assembly structures with Dr. Rein Ulijn at CUNY Advanced Science Research Center. After that, he moved to Pittsburgh in 2018 to start his graduate program in Chemistry at the University of Pittsburgh."
+    **Omri combines his interest in chemistry and coding to find ML methods for rapid screening of complex molecular properties.** Omri was born in Israel and moved to the United States in 2011. He received his BS in Chemistry from CUNY Hunter College in 2017, and did a research internship on second harmonic generation imaging of peptide self-assembly structures with Dr. Rein Ulijn at CUNY Advanced Science Research Center. After that, he moved to Pittsburgh in 2018 to start his graduate program in Chemistry at the University of Pittsburgh."
 ---
 
 {% include feature_row id="hutchison" type="left" %}
