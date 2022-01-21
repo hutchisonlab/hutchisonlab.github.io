@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: "Publications"
 collection: papers
 permalink: /papers/
