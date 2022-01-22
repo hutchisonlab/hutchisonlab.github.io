@@ -1,16 +1,15 @@
 ---
 title: Understanding Conformational Entropy in Small Molecules
-date: 2020-07-17T18:46:27+00:00
+date: 2021-3-24
 author: Geoff Hutchison
 layout: single
 categories:
   - Cheminformatics
   - Conformers
-  - Preprints
 header:
   teaser: /images/abstracts/2021-conformer-entropy.png
-doi: //doi.org/10.26434/chemrxiv.12671027
-citation: "_ChemRxiv_"
+doi: ./doi.org/10.1021/acs.jctc.0c01213
+citation: _J. Chem. Theory Comput._ **2021**, 17, 4, 2099–2106
 ---
 Leung Sing Chan, Garrett Morris, Geoffrey R. Hutchison. "{{ page.title }}​" {{page.citation}} [DOI]({{ page.doi }}){: .btn .btn--info}
 

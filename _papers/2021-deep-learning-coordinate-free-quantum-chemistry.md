@@ -1,16 +1,17 @@
 ---
 title: Deep learning coordinate-free quantum chemistry
-date: 2019-08-01T18:46:27+00:00
+date: 2021-10-05
 author: Geoff Hutchison
 layout: single
 categories:
   - Machine Learning
-  - Preprints
 header:
   teaser: /images/abstracts/2019-wave-ml.png
+doi: //doi.org/10.1021/acs.jpca.1c04462
+citation: "_J. Phys. Chem. A_ **2021**, 125, 40, 8978–8986"
 ---
 
-Matthew K Matlock, Max Hoffman, Na Le Dang, Dakota L. Folmsbee, Luke A. Langkamp, Geoffrey R. Hutchison, Neeraj Kumar, and S. Joshua Swamidass. "{{ page.title }}"
+Matthew K Matlock, Max Hoffman, Na Le Dang, Dakota L. Folmsbee, Luke A. Langkamp, Geoffrey R. Hutchison, Neeraj Kumar, and S. Joshua Swamidass."{{ page.title }}​" {{page.citation}} [DOI]({{ page.doi }}){: .btn .btn--info} {: .btn .btn--success}
 
 <!--more-->
 

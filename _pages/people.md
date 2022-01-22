@@ -29,12 +29,12 @@ hutchison:
     • 2001-2003 Northwestern University Materials Research Center Fellowship<br>
     "
 current_grads:
-  - image_path: /images/people/ChrisPetroff.jpg
-    alt: "Chris Petroff"
-    title: "Chris Petroff"
-    excerpt: "*Characterization Wizard (2015-)*<br>
-    **Chris investigates piezoelectric materials using device-level electromechanical testing.**
-    Chris was born and raised in Connecticut. Before coming to Pitt, he earned a B.S. in chemistry from Boston College where he spent two years researching metal-organic frameworks and nanoparticles. An avid runner, Chris ran cross country and track in high school before picking up marathoning in college; he has completed six marathons including Pittsburgh, Chicago, Berlin, and Boston"
+#  - image_path: /images/people/ChrisPetroff.jpg
+#    alt: "Chris Petroff"
+#    title: "Chris Petroff"
+#    excerpt: "*Characterization Wizard (2015-)*<br>
+#    **Chris investigates piezoelectric materials using device-level electromechanical testing.**
+#    Chris was born and raised in Connecticut. Before coming to Pitt, he earned a B.S. in chemistry from Boston College where he spent two years researching metal-organic frameworks and nanoparticles. An avid runner, Chris ran cross country and track in high school before picking up marathoning in college; he has completed six marathons including Pittsburgh, Chicago, Berlin, and Boston"
   - image_path: /images/people/Dakota.jpg
     alt: "Dakota Folmsbee"
     title: "Dakota Folmsbee"
@@ -51,11 +51,11 @@ current_grads:
     title: "Danielle Hiener"
     excerpt: "*Genetic Algorithm Optimizer (2019-)*<br>
     **Danielle develops genetic algorithms to rapidly find oligomers with interesting electronic structure properties.** Danielle grew up in the Pittsburgh region and attended Grove City College, where she earned her B.S. in Chemistry. As an undergrad, she participated in computational research exploring temporary anion states. She enjoys sewing and ballroom/swing dancing."
-  - image_path: /images/people/RyanWheat.jpg
-    alt: "Ryan Wheat"
-    title: "Ryan Wheat"
-    excerpt: "*Metal Organic Framework Finder (2019-)*<br>
-    **Ryan combines his interests in computers and chemistry to find stable metal-organic frameworks for new properties.** Ryan received his B.S. in Chemistry and a Minor in Music from the Florida Institute of Technology. Spending the majority of his life in a small city in Florida, he finds Pittsburgh to be far colder and noisier."
+#  - image_path: /images/people/RyanWheat.jpg
+#    alt: "Ryan Wheat"
+#    title: "Ryan Wheat"
+#    excerpt: "*Metal Organic Framework Finder (2019-)*<br>
+#    **Ryan combines his interests in computers and chemistry to find stable metal-organic frameworks for new properties.** Ryan received his B.S. in Chemistry and a Minor in Music from the Florida Institute of Technology. Spending the majority of his life in a small city in Florida, he finds Pittsburgh to be far colder and noisier."
   - image_path: /images/people/Caroline.jpg
     alt: "Caroline Chun"
     title: "Caroline Chun"
