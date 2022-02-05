@@ -6,7 +6,7 @@ share: true
 related: false
 ---
 
-{% include figure image_path="/images/group/2021-group-photo.png" alt="Hutchison Research Group" %}
+{% include figure image_path="/images/group/GroupPhoto2022.png" alt="Hutchison Research Group" %}
 
 The Hutchison research group in the [Department of Chemistry](//chem.pitt.edu/) at the [University of Pittsburgh](//pitt.edu/) develops new materials, as well as functional microscale and nanoscale devices. We focus on building electronic materials from molecular subunits, both organic and inorganic, using a variety of techniques to rationally design the desired properties. This encompasses chemical synthesis, characterization (both physical and chemical), combined with theoretical modeling and simulation.
 
