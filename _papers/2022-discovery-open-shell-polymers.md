@@ -1,6 +1,6 @@
 ---
 title: Strategies for Computer-Aided Discovery of Novel Open-Shell Polymers
-date: 2021-11-14
+date: 2022-02-28
 authors: "Omri Abarbanel, Julisa Rozon, Geoffrey R. Hutchison"
 layout: single
 categories:
@@ -9,10 +9,11 @@ categories:
   - Preprints
 header:
   teaser: /images/abstracts/2021-ground-state-triplet.png
-doi: //doi.org/10.26434/chemrxiv-2021-wjr6k
-citation: "_ChemRxiv_"
+doi: //doi.org/10.1021/acs.jpclett.2c00509
+citation: "_J. Phys. Chem. Lett._ (**2022**) _13_, 9, 2158–2164"
+
 ---
-{{ page.authors }}. "{{ page.title }}" {{page.citation}} [Online]({{ page.doi }})
+{{ page.authors }}. "{{ page.title }}" {{page.citation}} [Online]({{ page.doi }}) [Preprint](//doi.org/10.26434/chemrxiv-2021-wjr6k){: .btn .btn--success}
 
 <!--more-->
 
