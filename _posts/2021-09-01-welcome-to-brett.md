@@ -7,4 +7,4 @@ categories:
   - News
 ---
 
-Welcome to Brett Ondich, a first year Masters student at Pitt. Brett is a lieutenant at the US Air Force who joined the Hutchison group in 2021.
+Welcome to Brett Ondich, a first year Masters student at Pitt. Brett is a Lieutenant at the US Air Force who joined the Hutchison group in 2021.

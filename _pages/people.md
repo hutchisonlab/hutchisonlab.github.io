@@ -80,19 +80,21 @@ current_grads:
 ---
 ---
 
+# Professor Hutchison
+
 {% include feature_row id="hutchison" type="left" %}
 
-## Current Graduate Students
+# Current Graduate Students
 
 {% include feature_row id="current_grads" class="full" %}
 
-## Alumni
+# Alumni
 
-### Postdoctoral Fellows
+## Postdoctoral Fellows
 
 - Dr. Marcus Hanwell (2007-2009) - Group Leader, Brookhaven National Laboratory
 
-### Former Graduate Students
+## Former Graduate Students
 
 1. Aaron Crandall, (2008-2010) - Scientific librarian, Merck
 2. Xialing Chen, Ph.D. (2008-2013) - Chief Operations Officer (COO), UGOLED
@@ -113,7 +115,7 @@ current_grads:
 16. Christopher Petroff, Ph.D. (2015-2021), Now postdoc at Cornell University
 17. Dakota Folmsbee, Ph.D. (2017-2022), Now NIH postdoctoral fellow at Pitt (Koes group)
 
-### Former Undergraduates
+## Former Undergraduates
 
 1. Arthur Davis (‘10)		August 2008 - August 2010
 2. Casey Campbell (‘10)		August 2008 - April 2010
@@ -144,7 +146,7 @@ current_grads:
 27. Dacia Scott (’20)		May 2019 - October 2020
 28. Ben Richardson ('21)  January 2021 - May 2021
 
-### Former High School Researchers
+## Former High School Researchers
 
 1. Anjali Premkumar - North Allegheny HS
 2. Cameron Selby - Pittsburgh Allderdics HS
