@@ -10,4 +10,6 @@ categories:
 
 Congratulations to Ryan Wheat for his successful M.S. defense!
 
+{% include figure image_path="/images/people/RyanWheat.jpg" alt="Ryan Wheat" caption="MS defense for Ryan Wheat." %}
+
 Ryan is heading back to Florida for scientific programming positions.
