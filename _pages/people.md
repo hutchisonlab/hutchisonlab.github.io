@@ -60,6 +60,11 @@ current_grads:
     title: "Brett Ondich"
     excerpt: "*Our Guy In The Sky (2021--)*<br>
     Brett received his B.S. in Chemistry from Pitt and commissioned as an officer in the Air Force in 2018. After spending three years in Florida working as a CBRNE Engineering Analyst, Brett is excited to return to Pitt through the Air Force’s Advanced Academic Degree program. During his free time, Brett enjoys attending as many Pitt sporting events as possible and reading."
+  - image_path: /images/people/keren.jpg
+    alt: "Keren Lee"
+    title: "Keren Lee"
+    excerpt: "*Photovoltaic Pioneer(2022--)*</br>
+    Born and raised in Memphis, TN, Keren received her B.S. in Chemistry from Rhodes College where she conducted research on solvatochromic molybdenum dyes for potential use in dye-sensitized solar cells. In her free time, she enjoys knitting, tending to her houseplants, and foisting plant cuttings upon friends and random passerby."
 ---
 ---
 
