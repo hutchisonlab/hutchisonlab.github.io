@@ -63,7 +63,7 @@ current_grads:
   - image_path: /images/people/keren.jpg
     alt: "Keren Lee"
     title: "Keren Lee"
-    excerpt: "*Photovoltaic Pioneer(2022--)*</br>
+    excerpt: "*Photovoltaic Pioneer(2022--)*<br>
     Born and raised in Memphis, TN, Keren received her B.S. in Chemistry from Rhodes College where she conducted research on solvatochromic molybdenum dyes for potential use in dye-sensitized solar cells. In her free time, she enjoys knitting, tending to her houseplants, and foisting plant cuttings upon friends and random passerby."
 ---
 ---
