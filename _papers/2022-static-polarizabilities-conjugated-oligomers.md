@@ -1,16 +1,15 @@
 ---
 title: Evaluating Fast Methods for Static Polarizabilities on Extended Conjugated Oligomers
-date: 2021-12-08
+date: 2022-09-08
 authors: "Danielle Hiener, Dakota Folsmbee, Luke Langkamp, Geoffrey R. Hutchison"
 layout: single
 categories:
   - Organic Electronics
   - Materials Discovery
-  - Preprints
 header:
   teaser: /images/abstracts/2021-static-polzarizabilities.png
-doi: //doi.org/10.33774/chemrxiv-2021-pv54s-v2
-citation: "_ChemRxiv_"
+doi: //doi.org/10.1039/D2CP02375J
+citation: "_Phys. Chem. Chem. Phys._, (**2022**),_24_, 23173-23181"
 ---
 {{ page.authors }}. "{{ page.title }}" {{page.citation}} [Online]({{ page.doi }})
 

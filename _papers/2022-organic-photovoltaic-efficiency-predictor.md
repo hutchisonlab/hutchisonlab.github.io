@@ -1,16 +1,16 @@
 ---
 title: "Organic Photovoltaic Efficiency Predictor: Data-Driven Predictions of Power Conversion Efficiencies of Non-Fullerene Acceptor Organic Solar Cells"
-date: 2021-11-05
+date: 2022-05-06
 authors: "Brianna Greenstein, Geoffrey R. Hutchison"
 layout: single
 categories:
   - Organic Electronics
   - Materials Discovery
-  - Preprints
+  - Organic Solar Cells
 header:
   teaser: /images/abstracts/2021-opep.png
-doi: //doi.org/10.33774/chemrxiv-2021-nvcx9
-citation: "_ChemRxiv_"
+doi: //doi.org/10.1021/acs.jpclett.2c00866
+citation: "_J. Phys. Chem. Lett._ (**2022**), _13_, 19, 4235–4243"
 ---
 {{ page.authors }}. "{{ page.title }}" {{page.citation}} [Online]({{ page.doi }})
 
