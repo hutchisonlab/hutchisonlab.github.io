@@ -1,16 +1,15 @@
 ---
 title: Pareto Optimization of Oligomer Polarizability and Dipole Moment using a Genetic Algorithm
-date: 2021-02-17
+date: 2022-04-26
 authors: "Danielle Hiener, Geoffrey R. Hutchison"
 layout: single
 categories:
   - Organic Electronics
   - Materials Discovery
-  - Preprints
 header:
   teaser: /images/abstracts/2021-pareto-optimization-oligomer-polarizability.png
-doi: //doi.org/10.26434/chemrxiv.14043782.v1
-citation: "_ChemRxiv_"
+doi: doi.org/10.1021/acs.jpca.2c01266
+citation: "_J. Phys. Chem. A_ (**2022**), _126_, 17, 2750–2760"
 ---
 {{ page.authors }}. "{{ page.title }}" {{page.citation}} [Online]({{ page.doi }})
 
