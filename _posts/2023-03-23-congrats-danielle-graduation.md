@@ -8,4 +8,4 @@ categories:
   - News
 ---
 
-Congratulations to Danielle Elsie for successfully defending her PhD thesis! We are all proud of you!
+Congratulations to Danielle Elsey for successfully defending her PhD thesis! We are all proud of you!

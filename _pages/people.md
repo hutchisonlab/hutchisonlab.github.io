@@ -99,7 +99,7 @@ current_grads:
 17. Julisa Rozon (2018--2020), Graduate Student, Jenny Laaser Lab, University of Pittsburgh
 18. Ryan Wheat, M.S. (2019--2021)
 19. Cpt. Brett Ondich, M.S. (2021-2022)
-20. Danielle Elsie, Ph.D. (2018-2023)
+20. Danielle Elsey, Ph.D. (2018-2023)
 
 ## Former Undergraduate Students
 
