@@ -55,7 +55,7 @@ current_grads:
     title: "Keren Lee"
     excerpt: "*Photovoltaic Pioneer(2022--)*<br>
     Born and raised in Memphis, TN, Keren received her B.S. in Chemistry from Rhodes College where she conducted research on solvatochromic molybdenum dyes for potential use in dye-sensitized solar cells. In her free time, she enjoys knitting, tending to her houseplants, and foisting plant cuttings upon friends and random passerby."
-  - image_path: /images/people/Maya.jpg
+  - image_path: /images/people/Maya.jpeg
     alt: "Maya Hayden"
     title: "Maya Hayden"
     excerpt: "*Piezoeletronic Potions Master(2022--)*<br>
