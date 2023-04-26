@@ -9,7 +9,7 @@ categories:
   - Genetic Algorithms
   - Machine Learning
 header:
-  teaser: /images/abstracts/screening-tandem-solar-cells.png
+  teaser: /images/abstracts/screening-tandem-solar-cells.jpeg
 doi: //doi.org/10.1021/acs.jpcc.3c00267
 citation: "_J. Phys. Chem. C_ 2023, 127, 13, 6179–6191"
 ---
