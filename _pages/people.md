@@ -35,11 +35,6 @@ current_grads:
     title: "Anneliese Schmidt"
     excerpt: "*Polymer Synthesis Pro (2017--)*<br>
     **Anneliese synthesizes polymers with the [Meyer Group](http://www.meyer-chemistry.com), designing conjugated, polarizable sequenced oligomers for high capacitance energy storage.** Anneliese received her B.S. in chemistry from the University of South Carolina Upstate, with industrial research at Milliken and Company, where she synthesized small molecules as additives to improve various polymers’ properties, e.g. toughness or permeability.  The goal of my current project is to understand how the sequence of polymer side chains affects the dielectric constant of the polymer."
-  - image_path: /images/people/danielle.jpg
-    alt: "Danielle Elsey"
-    title: "Danielle Elsey"
-    excerpt: "*Genetic Algorithm Optimizer (2019--)*<br>
-    **Danielle develops genetic algorithms to rapidly find oligomers with interesting electronic structure properties.** Danielle grew up in the Pittsburgh region and attended Grove City College, where she earned her B.S. in Chemistry. As an undergrad, she participated in computational research exploring temporary anion states. She enjoys sewing and ballroom/swing dancing."
   - image_path: /images/people/Caroline.jpg
     alt: "Caroline Chun"
     title: "Caroline Chun"
@@ -60,6 +55,12 @@ current_grads:
     title: "Keren Lee"
     excerpt: "*Photovoltaic Pioneer(2022--)*<br>
     Born and raised in Memphis, TN, Keren received her B.S. in Chemistry from Rhodes College where she conducted research on solvatochromic molybdenum dyes for potential use in dye-sensitized solar cells. In her free time, she enjoys knitting, tending to her houseplants, and foisting plant cuttings upon friends and random passerby."
+  - image_path: /images/people/Maya.jpg
+    alt: "Maya Hayden"
+    title: "Maya Hayden"
+    excerpt: "*Piezoeletronic Potions Master(2022--)*<br>
+    Maya grew up in Bucks County, PA and received her BS from Smith College with a chemistry major, and music minor. At Smith she worked with Dr. Kevin Shea on synthesizing Neurolenin D analogs for use in lymphalic filariasis . She was drawn away from natural product synthesis into organic electronics, and hasn't looked back since. In her free time she rock climbs, plays French horn in chamber ensembles, tends to her 90+ plants, and watches detective shows with her two geriatric cats."
+    
 ---
 ---
 
