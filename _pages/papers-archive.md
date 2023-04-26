@@ -34,6 +34,18 @@ author_profile: false
   </li>
 </ul>
 
+{% for year in postsInYear reversed %}
+  <section id="{{ year.name }}" class="taxonomy__section">
+    <h2 class="archive__subtitle">{{ year.name }}</h2>
+    <div class="feature__wrapper">
+      {% for post in year.items reversed %}
+        {% include archive-paper.html type=page.entries_layout %}
+      {% endfor %}
+    </div>
+    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+  </section>
+{% endfor %}
+
 {% if site.preprints != null %}
 <section id="Preprints" class="taxonomy__section">
   <h2 class="archive__subtitle">In the Pipeline Preprints</h2>
@@ -46,15 +58,3 @@ author_profile: false
   <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 </section>
 {% endif %}
-
-{% for year in postsInYear reversed %}
-  <section id="{{ year.name }}" class="taxonomy__section">
-    <h2 class="archive__subtitle">{{ year.name }}</h2>
-    <div class="feature__wrapper">
-      {% for post in year.items reversed %}
-        {% include archive-paper.html type=page.entries_layout %}
-      {% endfor %}
-    </div>
-    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-  </section>
-{% endfor %}

@@ -8,7 +8,7 @@ categories:
   - Materials Discovery
   - Genetic Algorithms
 header:
-  teaser: /images/abstracts/GSA-GA-TOC.png
+  teaser: /images/abstracts/GST-GA-TOC.png
 doi: //doi.org/10.1039/D3CP00185G
 citation: "_Phys. Chem. Chem. Phys._, (**2023**),_25_, 11278-11285"
 ---
