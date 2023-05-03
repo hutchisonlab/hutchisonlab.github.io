@@ -53,19 +53,20 @@ current_grads:
   - image_path: /images/people/keren.jpg
     alt: "Keren Lee"
     title: "Keren Lee"
-    excerpt: "*Photovoltaic Pioneer(2022--)*<br>
+    excerpt: "*Photovoltaic Pioneer (2022--)*<br>
     Born and raised in Memphis, TN, Keren received her B.S. in Chemistry from Rhodes College where she conducted research on solvatochromic molybdenum dyes for potential use in dye-sensitized solar cells. In her free time, she enjoys knitting, tending to her houseplants, and foisting plant cuttings upon friends and random passerby."
   - image_path: /images/people/Maya.jpeg
     alt: "Maya Hayden"
     title: "Maya Hayden"
-    excerpt: "*Piezoeletronic Potions Master(2022--)*<br>
+    excerpt: "*Piezoeletronic Potions Master (2022--)*<br>
     Maya grew up in Bucks County, PA and received her BS from Smith College with a chemistry major, and music minor. At Smith she worked with Dr. Kevin Shea on synthesizing Neurolenin D analogs for use in lymphalic filariasis . She was drawn away from natural product synthesis into organic electronics, and hasn't looked back since. In her free time she rock climbs, plays French horn in chamber ensembles, tends to her 90+ plants, and watches detective shows with her two geriatric cats."
     
 current_undergrads:
   - image_path: /images/people/Kyler_Daas.jpg
     alt: "Kyler Daas"
     title: "Kyler Daas"
-    excerpt: "Kyler grew up in New Jersey and Pennsylvania. He is going to be graduating in 2024 with a BS in Biochemistry and Chemistry. After completing his undergraduate education Kyler plans on attending medical school. Likely one with an MD/PhD program. In his free time, he enjoys golfing, working out, and hanging out with friends and family."
+    excerpt: "*Solar Cells Helper (2023--)*<br>
+    Kyler grew up in New Jersey and Pennsylvania. He is going to be graduating in 2024 with a BS in Biochemistry and Chemistry. After completing his undergraduate education Kyler plans on attending medical school. Likely one with an MD/PhD program. In his free time, he enjoys golfing, working out, and hanging out with friends and family."
     
 ---
 ---
@@ -81,6 +82,7 @@ current_undergrads:
 # Current Undergraduate Students
 
 {% include feature_row id="current_undergrads" class="full" %}
+
 # Alumni
 
 ## Former Postdoctoral Fellows
