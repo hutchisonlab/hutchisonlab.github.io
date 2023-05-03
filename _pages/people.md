@@ -67,7 +67,12 @@ current_undergrads:
     title: "Kyler Daas"
     excerpt: "*Solar Cells Helper (2023--)*<br>
     Kyler grew up in New Jersey and Pennsylvania. He is going to be graduating in 2024 with a BS in Biochemistry and Chemistry. After completing his undergraduate education Kyler plans on attending medical school. Likely one with an MD/PhD program. In his free time, he enjoys golfing, working out, and hanging out with friends and family."
-    
+  - image_path: /images/people/Montez_Newsome.jpg
+    alt: "Montez Newsome"
+    title: "Montez Newsome"
+    excerpt: "Piezoelectric Potion Padawan (2023--)<br>
+    Montez grew in Harrisburg, Pa and moved to Pittsburgh to finish high school and start college. Part of the class of 2024, he will be graduating with an ACS certified degree in Chemistry. His goal is to complete the Chemistry PhD program at the University of Pittsburgh. In his free time, Montez enjoy working out, cycling, playing basketball and listening to rap/hip hop music."
+
 ---
 ---
 
