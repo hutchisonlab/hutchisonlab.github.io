@@ -61,6 +61,12 @@ current_grads:
     excerpt: "*Piezoeletronic Potions Master(2022--)*<br>
     Maya grew up in Bucks County, PA and received her BS from Smith College with a chemistry major, and music minor. At Smith she worked with Dr. Kevin Shea on synthesizing Neurolenin D analogs for use in lymphalic filariasis . She was drawn away from natural product synthesis into organic electronics, and hasn't looked back since. In her free time she rock climbs, plays French horn in chamber ensembles, tends to her 90+ plants, and watches detective shows with her two geriatric cats."
     
+current_undergrads:
+  - image_path: /images/people/Kyler_Daas.jpg
+    alt: "Kyler Daas"
+    title: "Kyler Daas"
+    excerpt: "Kyler grew up in New Jersey and Pennsylvania. He is going to be graduating in 2024 with a BS in Biochemistry and Chemistry. After completing his undergraduate education Kyler plans on attending medical school. Likely one with an MD/PhD program. In his free time, he enjoys golfing, working out, and hanging out with friends and family."
+    
 ---
 ---
 
@@ -72,6 +78,9 @@ current_grads:
 
 {% include feature_row id="current_grads" class="full" %}
 
+# Current Undergraduate Students
+
+{% include feature_row id="current_undergrads" class="full" %}
 # Alumni
 
 ## Former Postdoctoral Fellows
