@@ -35,11 +35,6 @@ current_grads:
     title: "Anneliese Schmidt"
     excerpt: "*Polymer Synthesis Pro (2017--)*<br>
     **Anneliese synthesizes polymers with the [Meyer Group](http://www.meyer-chemistry.com), designing conjugated, polarizable sequenced oligomers for high capacitance energy storage.** Anneliese received her B.S. in chemistry from the University of South Carolina Upstate, with industrial research at Milliken and Company, where she synthesized small molecules as additives to improve various polymers’ properties, e.g. toughness or permeability.  The goal of my current project is to understand how the sequence of polymer side chains affects the dielectric constant of the polymer."
-  - image_path: /images/people/danielle.jpg
-    alt: "Danielle Hiener"
-    title: "Danielle Hiener"
-    excerpt: "*Genetic Algorithm Optimizer (2019--)*<br>
-    **Danielle develops genetic algorithms to rapidly find oligomers with interesting electronic structure properties.** Danielle grew up in the Pittsburgh region and attended Grove City College, where she earned her B.S. in Chemistry. As an undergrad, she participated in computational research exploring temporary anion states. She enjoys sewing and ballroom/swing dancing."
   - image_path: /images/people/Caroline.jpg
     alt: "Caroline Chun"
     title: "Caroline Chun"
@@ -55,16 +50,29 @@ current_grads:
     title: "Brianna Greenstein"
     excerpt: "*Organic Solar Cell Explorer (2020--)*<br>
     **Brianna utilizes computational methods and data science to optimize organic solar cells.** Brianna grew up in New York and received her B.S. in Chemistry from SUNY Binghamton University, where she did research on metal alloy nanoparticles as catalysts for CO<sub>2</sub> reduction. Here at Pitt, she was lured away from nanoparticle research during the COVID-19 lockdown. During her free time she enjoys painting and drawing."
-  - image_path: /images/people/brett.jpg
-    alt: "Brett Ondich"
-    title: "Brett Ondich"
-    excerpt: "*Our Guy In The Sky (2021--)*<br>
-    Brett received his B.S. in Chemistry from Pitt and commissioned as an officer in the Air Force in 2018. After spending three years in Florida working as a CBRNE Engineering Analyst, Brett is excited to return to Pitt through the Air Force’s Advanced Academic Degree program. During his free time, Brett enjoys attending as many Pitt sporting events as possible and reading."
   - image_path: /images/people/keren.jpg
     alt: "Keren Lee"
     title: "Keren Lee"
-    excerpt: "*Photovoltaic Pioneer(2022--)*<br>
+    excerpt: "*Photovoltaic Pioneer (2022--)*<br>
     Born and raised in Memphis, TN, Keren received her B.S. in Chemistry from Rhodes College where she conducted research on solvatochromic molybdenum dyes for potential use in dye-sensitized solar cells. In her free time, she enjoys knitting, tending to her houseplants, and foisting plant cuttings upon friends and random passerby."
+  - image_path: /images/people/Maya.jpeg
+    alt: "Maya Hayden"
+    title: "Maya Hayden"
+    excerpt: "*Piezoeletronic Potions Master (2022--)*<br>
+    Maya grew up in Bucks County, PA and received her BS from Smith College with a chemistry major, and music minor. At Smith she worked with Dr. Kevin Shea on synthesizing Neurolenin D analogs for use in lymphalic filariasis . She was drawn away from natural product synthesis into organic electronics, and hasn't looked back since. In her free time she rock climbs, plays French horn in chamber ensembles, tends to her 90+ plants, and watches detective shows with her two geriatric cats."
+    
+current_undergrads:
+  - image_path: /images/people/Kyler_Daas.jpg
+    alt: "Kyler Daas"
+    title: "Kyler Daas"
+    excerpt: "*Solar Cells Helper (2023--)*<br>
+    Kyler grew up in New Jersey and Pennsylvania. He is going to be graduating in 2024 with a BS in Biochemistry and Chemistry. After completing his undergraduate education Kyler plans on attending medical school. Likely one with an MD/PhD program. In his free time, he enjoys golfing, working out, and hanging out with friends and family."
+  - image_path: /images/people/Montez_Newsome.jpg
+    alt: "Montez Newsome"
+    title: "Montez Newsome"
+    excerpt: "Piezoelectric Potion Padawan (2023--)<br>
+    Montez grew in Harrisburg, Pa and moved to Pittsburgh to finish high school and start college. Part of the class of 2024, he will be graduating with an ACS certified degree in Chemistry. His goal is to complete the Chemistry PhD program at the University of Pittsburgh. In his free time, Montez enjoy working out, cycling, playing basketball and listening to rap/hip hop music."
+
 ---
 ---
 
@@ -75,6 +83,10 @@ current_grads:
 # Current Graduate Students
 
 {% include feature_row id="current_grads" class="full" %}
+
+# Current Undergraduate Students
+
+{% include feature_row id="current_undergrads" class="full" %}
 
 # Alumni
 
@@ -102,6 +114,8 @@ current_grads:
 16. Elena Kusevska	(2017--2018), Graduate Student, Peng Liu Lab, University of Pittsburgh
 17. Julisa Rozon (2018--2020), Graduate Student, Jenny Laaser Lab, University of Pittsburgh
 18. Ryan Wheat, M.S. (2019--2021)
+19. Cpt. Brett Ondich, M.S. (2021-2022)
+20. Danielle Elsey, Ph.D. (2018-2023)
 
 ## Former Undergraduate Students
 
@@ -140,4 +154,3 @@ current_grads:
 2. Cameron Selby --- Pittsburgh Allderdics HS
 3. Michal Hajlasz --- Pittsburgh Allderdice HS
 4. Ni Nyoman D. Gayatri --- Pittsburgh Allderdice HS
-
