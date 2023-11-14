@@ -61,11 +61,10 @@ current_grads:
     title: "Maya Hayden"
     excerpt: "*Piezoeletronic Potions Master (2022--)*<br>
     Maya grew up in Bucks County, PA and received her BS from Smith College with a chemistry major, and music minor. At Smith she worked with Dr. Kevin Shea on synthesizing Neurolenin D analogs for use in lymphalic filariasis . She was drawn away from natural product synthesis into organic electronics, and hasn't looked back since. In her free time she rock climbs, plays French horn in chamber ensembles, tends to her 90+ plants, and watches detective shows with her two geriatric cats."
-  - image_path: /images/people/Terry.jpeg
+  - image_path: /images/people/Terry.jpg
     alt: "Terry Paske"
     title: "Terry Paske"
-    excerpt: "*Chiral Spin Commander (2023--)
-    *<br>
+    excerpt: "*Chiral Spin Commander (2023--)*<br>
     Terry grew up in western Pennsylvania and received her BS from the University of Pittsburgh, where she did research with the Hutchison group pertaining to novel patterning methods for piezoelectric materials. After completing her degree Terry worked in industry in various fields such as coatings, pharmaceuticals and contact testing where she developed analytical testing methods and maintained regulatory compliance standards for companies. Some of Terry's other interests are crochet, knitting, board games and taking care of her dog Broccoli."
     
 current_undergrads:
