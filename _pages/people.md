@@ -60,7 +60,7 @@ current_grads:
     alt: "Ben Shen"
     title: "Ben Shen"
     excerpt: "*Computational Explorer (2022-)*<br>
-    Ben was born in China and moved to the United States in 2016. He got his B.S. in Chemistry from [South China University of Technology](https://www.scut.edu.cn/en/), where he did research on different metal phthalocyanines relating to materials in automotive batteries. Then he got his M.S. in Chemistry from [Cal Poly Pomona](https://www.cpp.edu/), where he did research on "Computational Analysis And Machine Learning For Characterization of the Electronic Properties of Organic Molecular Crystals." During his free time he enjoys reading and playing different kinds of chess, such as gomoku."
+    Ben was born in China and moved to the United States in 2016. He got his B.S. in Chemistry from [South China University of Technology](https://www.scut.edu.cn/en/), where he did research on different metal phthalocyanines relating to materials in automotive batteries. Then he got his M.S. in Chemistry from [Cal Poly Pomona](https://www.cpp.edu/), where he did research on \"Computational Analysis And Machine Learning For Characterization of the Electronic Properties of Organic Molecular Crystals.\" During his free time he enjoys reading and playing different kinds of chess, such as gomoku."
   - image_path: /images/people/Maya.jpeg
     alt: "Maya Hayden"
     title: "Maya Hayden"
