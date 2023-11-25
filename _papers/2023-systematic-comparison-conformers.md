@@ -1,16 +1,15 @@
 ---
 title: Systematic Comparison of Experimental Crystallographic Geometries and Gas-Phase Computed Conformers for Torsion Preferences
-date: 2022-10-15
+date: 2023-11-24
 authors: "Dakota Folmsbee, David Koes, Geoffrey Hutchison"
 layout: single
 categories:
   - Cheminformatics
   - Conformers
-  - Preprints
 header:
   teaser: /images/abstracts/2022-qtdg.png
-doi: //doi.org/10.26434/chemrxiv-2022-h9gjq-v3
-citation: "_ChemRxiv_"
+doi: //doi.org/10.1021/acs.jcim.3c01278
+citation: "_J. Chem. Inf. Model._ 2023"
 ---
 {{ page.authors }}. "{{ page.title }}" {{page.citation}} [Online]({{ page.doi }})
 
