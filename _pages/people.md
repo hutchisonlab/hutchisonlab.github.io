@@ -31,11 +31,6 @@ hutchison:
     • 2001--2003 Northwestern University Materials Research Center Fellowship<br>
     "
 current_grads:
-  - image_path: /images/people/Anneliese.jpg
-    alt: "Anneliese Schmidt"
-    title: "Anneliese Schmidt"
-    excerpt: "*Polymer Synthesis Pro (2017--)*<br>
-    **Anneliese synthesizes polymers with the [Meyer Group](http://www.meyer-chemistry.com), designing conjugated, polarizable sequenced oligomers for high capacitance energy storage.** Anneliese received her B.S. in chemistry from the University of South Carolina Upstate, with industrial research at Milliken and Company, where she synthesized small molecules as additives to improve various polymers’ properties, e.g. toughness or permeability.  The goal of my current project is to understand how the sequence of polymer side chains affects the dielectric constant of the polymer."
   - image_path: /images/people/Caroline.jpg
     alt: "Caroline Chun"
     title: "Caroline Chun"
@@ -73,16 +68,16 @@ current_grads:
     Terry grew up in western Pennsylvania and received her BS from the University of Pittsburgh, where she did research with the Hutchison group pertaining to novel patterning methods for piezoelectric materials. After completing her degree Terry worked in industry in various fields such as coatings, pharmaceuticals and contact testing where she developed analytical testing methods and maintained regulatory compliance standards for companies. Some of Terry's other interests are crochet, knitting, board games and taking care of her dog Broccoli."
     
 current_undergrads:
-  - image_path: /images/people/Kyler_Daas.jpg
-    alt: "Kyler Daas"
-    title: "Kyler Daas"
-    excerpt: "*Solar Cells Helper (2023--)*<br>
-    Kyler grew up in New Jersey and Pennsylvania. He is going to be graduating in 2024 with a BS in Biochemistry and Chemistry. After completing his undergraduate education Kyler plans on attending medical school. Likely one with an MD/PhD program. In his free time, he enjoys golfing, working out, and hanging out with friends and family."
-  - image_path: /images/people/Montez_Newsome.jpg
-    alt: "Montez Newsome"
-    title: "Montez Newsome"
-    excerpt: "Piezoelectric Potion Padawan (2023--)<br>
-    Montez grew in Harrisburg, Pa and moved to Pittsburgh to finish high school and start college. Part of the class of 2024, he will be graduating with an ACS certified degree in Chemistry. His goal is to complete the Chemistry PhD program at the University of Pittsburgh. In his free time, Montez enjoy working out, cycling, playing basketball and listening to rap/hip hop music."
+  - image_path: /images/people/Rojin.jpg
+    alt: "Rojin Mortazavi "
+    title: "Rojin Mortazavi"
+    excerpt: "*Synthesis Deputy (2024--)*<br>
+    Rojin was born in Iran, followed by a brief stint in Australia, before making a home in
+Montgomery County, Pennsylvania. She is an undergraduate currently pursuing a 
+B.S. in Chemistry and a B.A. in Sociology. She plans on graduating in 2025 to then 
+continue on for a Ph.D. in Chemistry. In her free time, Rojin keeps a nose in her books
+and indulges in home renovation shows."
+
 
 ---
 ---
@@ -125,8 +120,10 @@ current_undergrads:
 16. Elena Kusevska	(2017--2018), Graduate Student, Peng Liu Lab, University of Pittsburgh
 17. Julisa Rozon (2018--2020), Graduate Student, Jenny Laaser Lab, University of Pittsburgh
 18. Ryan Wheat, M.S. (2019--2021)
-19. Cpt. Brett Ondich, M.S. (2021-2022)
-20. Danielle Elsey, Ph.D. (2018-2023)
+19. Cpt. Brett Ondich, M.S. (2021--2022)
+20. Danielle Elsey, Ph.D. (2018--2023)
+21. Anneliese Schmidt, Ph.D. (2017--2023)
+22. Brianna Greenstein, Ph.D. (2020--2024)
 
 ## Former Undergraduate Students
 
@@ -158,6 +155,9 @@ current_undergrads:
 26. Taylor Shoun (’19),		September 2018 --- April 2019
 27. Dacia Scott (’20),		May 2019 --- October 2020
 28. Ben Richardson (’21),    January 2021 --- May 2021
+29. Nishka Edlabadkar ('24), August 2022 --- May 2023
+30. Kyler Daas ('24), January 2023 --- May 2024
+31. Montez Newsome ('24), January 2023 --- May 2024
 
 ## Former High School Researchers
 
@@ -165,3 +165,5 @@ current_undergrads:
 2. Cameron Selby --- Pittsburgh Allderdics HS
 3. Michal Hajlasz --- Pittsburgh Allderdice HS
 4. Ni Nyoman D. Gayatri --- Pittsburgh Allderdice HS
+5. Michal Hajlasz --- Pittsburgh Allderdice HS
+6. Bennett Matthews --- Pittsburgh Allderdice HS
