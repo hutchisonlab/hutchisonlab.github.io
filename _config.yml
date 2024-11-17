@@ -36,21 +36,17 @@ yandex_site_verification :
 
 owner:
   name: Geoff Hutchison
-  twitter: ghutchis
   github: ghutchis
   avatar: logo.png
   email: geoffh@pitt.edu
 
 
 # Social Sharing
-twitter:
-  username               : ghutchis
-
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ghutchis"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/ghutchis.bsky.social"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://mastodon.social/@ghutchis"
@@ -60,9 +56,6 @@ footer:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=2IsvEEYAAAAJ"
-    - label: "Publons"
-      icon: "ai ai-publons"
-      url: "https://publons.com/researcher/1317641/geoffrey-hutchison/"
 
 # Analytics
 analytics:
@@ -76,7 +69,7 @@ author:
   bio              : "We Like Chemistry."
   location         : "Pittsburgh"
   email            : "geoffh@pitt.edu"
-  uri              : "http://hutchison.chem.pitt.edu/"
+  uri              : "http://hutchisonlab.org/"
   github           : ghutchis
   twitter          : ghutchis
   youtube          : # YouTubeChannel
