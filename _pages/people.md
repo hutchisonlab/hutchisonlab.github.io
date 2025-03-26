@@ -68,15 +68,16 @@ current_grads:
     Terry grew up in western Pennsylvania and received her BS from the University of Pittsburgh, where she did research with the Hutchison group pertaining to novel patterning methods for piezoelectric materials. After completing her degree Terry worked in industry in various fields such as coatings, pharmaceuticals and contact testing where she developed analytical testing methods and maintained regulatory compliance standards for companies. Some of Terry's other interests are crochet, knitting, board games and taking care of her dog Broccoli."
     
 current_undergrads:
-  - image_path: /images/people/Rojin.jpg
-    alt: "Rojin Mortazavi "
+  - image_path: /images/people/RojinMortazavi.jpg
+    alt: "Rojin Mortazavi"
     title: "Rojin Mortazavi"
     excerpt: "*Synthesis Deputy (2024--)*<br>
-    Rojin was born in Iran, followed by a brief stint in Australia, before making a home in
-Montgomery County, Pennsylvania. She is an undergraduate currently pursuing a 
-B.S. in Chemistry and a B.A. in Sociology. She plans on graduating in 2025 to then 
-continue on for a Ph.D. in Chemistry. In her free time, Rojin keeps a nose in her books
-and indulges in home renovation shows."
+    Rojin was born in Iran, followed by a brief stint in Australia, before making a home in Montgomery County, Pennsylvania. She is an undergraduate currently pursuing a B.S. in Chemistry and a B.A. in Sociology. She plans on graduating in 2025 to then continue on for a Ph.D. in Chemistry. In her free time, Rojin keeps a nose in her books and indulges in home renovation shows."
+  - image_path: /images/people/ColmSlevin.jpg
+    alt: "Colm Slevin"
+    title: "Colm Slevin"
+    excerpt: "*Dihedral Detector (2024--)*<br>
+    Colm is originally from the suburbs of New Jersey. He is currently pursing a bachelors in chemistry with a minor in communications and he plans on pursuing a Ph.D. in chemistry. He joined the lab in the summer of 2024 and was previously an editor for The Pitt News. In his free time Colm enjoys reading, cooking, and crocheting."
 
 
 ---
